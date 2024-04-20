@@ -2,7 +2,7 @@
       
     int count=0;
     
-    string [] arr1= new string [] {"Sunday", "Mon", "Tuesday", "Wed", "Thu", "Friday", "Sat"};
+    string [] arr1= ["Sunday", "Mon", "Tuesday", "Wed", "Thu", "Friday", "Sat"];
 
 for (int i=0; i< arr1.Length; i++){
     if (arr1[i].Length<4){
